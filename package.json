@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "mineflayer": "^4.8.1",
+    "mineflayer-move": "github:cheezbarger/mineflayer-move",
+    "mineflayer-pathfinder": "^2.4.4",
+    "mineflayer-web-inventory": "^1.3.0",
+    "prismarine-viewer": "^1.25.0"
+  }
+}
